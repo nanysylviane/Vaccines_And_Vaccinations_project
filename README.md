@@ -21,7 +21,10 @@ Team 4: Sylviane Fezeu, Annie Lai, Alex Motes, Flora Ruan, Krishna Tatineni
 
 Sources:
 
-https://www.cdc.gov/mmwr/volumes/68/wr/mm6817e1.htm#F1_down
-https://www.cnn.com/2019/06/17/health/measles-cases-us-outbreak-bn/index.html
-https://vaers.hhs.gov/data/datasets.html
-https://vaers.hhs.gov/about.html
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6817e1.htm#F1_down.
+
+https://www.cnn.com/2019/06/17/health/measles-cases-us-outbreak-bn/index.html.
+
+https://vaers.hhs.gov/data/datasets.html.
+
+https://vaers.hhs.gov/about.html.
